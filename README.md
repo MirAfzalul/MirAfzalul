@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Mir Afzalul Bashar</h1>
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRustamxon7%2Frustamxon7&psig=AOvVaw1w20a2JNyhSUGZVhOQrR-F&ust=1698303472744000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCAxcvPkIIDFQAAAAAdAAAAABA5" alt="Coding GIF" width="400">
+  <img src="https://i.gifer.com/39Cg.gif" alt="Coding GIF" width="400">
   
 </p>
 
