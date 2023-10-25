@@ -1,8 +1,8 @@
 <h1 align="center">Hi there! 👋 I'm Mir Afzalul Bashar</h1>
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourrepository/raw/main/your-gif-animation.gif" alt="Coding GIF" width="400">
-  <img src="https://i.gifer.com/39Cg.gif"/>
+  <img src="https://i.gifer.com/39Cg.gif" alt="Coding GIF" width="400">
+  
 </p>
 
 <h3 align="center">Passionate Web Developer and Code Wizard 🚀</h3>
