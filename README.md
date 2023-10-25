@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/yourusername/yourrepository/raw/main/your-gif-animation.gif" alt="Coding GIF" width="400">
+  <img src="https://i.gifer.com/39Cg.gif"/>
 </p>
 
 <h3 align="center">Passionate Web Developer and Code Wizard 🚀</h3>
