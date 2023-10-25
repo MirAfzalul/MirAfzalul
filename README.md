@@ -31,7 +31,7 @@
 <h3 align="center">Let's create amazing web experiences together! 🌟</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/mir-afzalul-bashar-36b52018b/)">
+  <a href="www.linkedin.com/in/mir-afzalul-bashar-36b52018b">
     <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
