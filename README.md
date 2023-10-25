@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.com/your-profile-image.gif" alt="Your Name's GIF Avatar">
+  <img src="https://i.gifer.com/39Cg.gif" alt="Your Name's GIF Avatar">
 </p>
 
 <h1 align="center">👋 Hey there! I'm Your Name</h1>
