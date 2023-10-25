@@ -1,58 +1,40 @@
+<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
+
 <p align="center">
-  <img src="https://i.gifer.com/39Cg.gif" alt="Your Name's GIF Avatar">
+  <img src="https://github.com/yourusername/yourrepository/raw/main/your-gif-animation.gif" alt="Coding GIF" width="400">
 </p>
 
-<h1 align="center">👋 Hey there! I'm Your Name</h1>
+<h3 align="center">Passionate Web Developer and Code Wizard 🚀</h3>
+
+<p align="center">Crafting digital magic with:</p>
 
 <p align="center">
-  <img src="https://your-animation-url.com/your-animated-banner.gif" alt="Web Developer, Innovator, Creator">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
 </p>
 
-<p align="center">Passionate web developer with a penchant for creativity and innovation. My code brings web pages to life!</p>
+<p align="center">Also, a wizard in:</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://your-image-url.com/linkedin-icon.gif" alt="LinkedIn">
-  </a>
-  <a href="mailto:youremail@email.com" target="_blank">
-    <img src="https://your-image-url.com/email-icon.gif" alt="Email">
-  </a>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="Java" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50">
 </p>
 
-<h2 align="center">🚀 Here's a bit about me:</h2>
-
-- 💼 Working as a Front-End Maestro at [Your Company]
-- 🌱 Constantly learning and exploring new web development trends
-- 🔧 Proficient in React, HTML5, CSS3, and JavaScript
-- 💡 Enthusiastic about creating clean, maintainable code and efficient user interfaces
-- 💻 Familiar with back-end technologies to collaborate effectively with full-stack teams
-
-<h2 align="center">🛠️ Skills</h2>
-
-- Front-End: React, HTML, CSS, JavaScript
-- Back-End: Node.js (basic)
-- Programming Languages: C++, Java, C#
-- Version Control: Git
-- UI/UX Design
-- Responsive Web Design
-
 <p align="center">
-  <img src="https://your-animation-url.com/awesome-dev.gif" alt="You're looking at an awesome developer">
+  <img src="https://github.com/yourusername/yourrepository/raw/main/your-another-gif-animation.gif" alt="Another Coding GIF" width="400">
 </p>
 
-<h2 align="center">📫 Get in Touch</h2>
+<h3 align="center">Let's create amazing web experiences together! 🌟</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://your-image-url.com/linkedin-button.gif" alt="LinkedIn">
-  </a>
-  <a href="mailto:youremail@email.com" target="_blank">
-    <img src="https://your-image-url.com/email-button.gif" alt="Email">
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
-<p align="center">Feel free to explore my repositories, connect on LinkedIn, and get in touch if you'd like to collaborate on an exciting project or just chat about web development!</p>
+<p align="center">Feel free to explore my repositories and get in touch for collaborations and exciting projects!</p>
 
-<p align="center">
-  <img src="https://your-animation-url.com/happy-coding.gif" alt="Happy Coding!">
-</p>
+<p align="center">Happy coding! 🚀</p>
