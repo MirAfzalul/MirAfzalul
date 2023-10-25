@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Welcome to My Front-End World! 🚀</h1>
 
 <p align="center">
-  <img src="[https://your-image-link-here" alt="Front-End Developer in Action](https://i.gifer.com/39Cg.gif)">
+  <img src="https://i.gifer.com/39Cg.gif" alt="">
 </p>
 
 <p align="center">
