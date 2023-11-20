@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Mir Afzalul Bashar and I'm a Web Developer.</p>
+<p align="center">My name is Mir Afzalul Bashar and I'm a Web Developer</p>
 
 ###
 
