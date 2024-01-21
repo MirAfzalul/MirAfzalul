@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">- 📚 Learning something new every day<br>- 💡 Solving problems with clean, efficient code<br>- 🌐 Exploring the web's limitless possibilities<br>- 🧰 Open to collaborations and exciting projects</p>
+<p align="center">- 📚 Learning something new every day<br>- 💡Solving problems with clean, efficient code<br>- 🌐 Exploring the web's limitless possibilities<br>- 🧰 Open to collaborations and exciting projects</p>
 
 ###
 
